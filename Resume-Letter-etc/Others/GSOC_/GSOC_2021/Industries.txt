@@ -1,0 +1,26 @@
+FILTER: MACHINE LEARNING & DEEP LEARNING 
+JBoss Community , Mayor's Office of New Urban Mechanics (City of Boston) ,
+SCoRe Lab , vitrivr , CERN-HSF , Machine Learning for Science (ML4SCI) Umbrella Organization ,
+caMicroscope , MediaPipe , AerospaceResearch.net , AOSSIE , DeepPavlov , 
+GFOSS - Open Technology Alliance , LibreHealth 
+
+
+FILTER: PYTHON (Only Interesting ones)
+CHAOSS Project , mypy , JdeRobot - Universidad Rey Juan Carlos , MDAnalysis 
+ , Oppia Foundation , DeepPavlov , CCExtractor Development , 
+  Digital Impact Alliance (DIAL) at UN Foundation
+, Department of Biomedical Informatics (BMI), Emory University School of Medicine , 
+, GeomScale , Global Alliance for Genomics and Health , GNOME Foundation
+ ,Integrated Ocean Observing System (IOOS) , Internet Archive , LibreCube Initiative
+ , MGGG Redistricting Lab ,  National Resource for Network Biology (NRNB) , NumFOCUS
+ ,Open Genome Informatics , Open Chemistry , Open Bioinformatics Foundation
+,Processing Foundation , Red Hen Lab
+ 
+
+
+
+
+
+
+
+
