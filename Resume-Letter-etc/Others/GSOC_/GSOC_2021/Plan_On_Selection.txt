@@ -1,0 +1,32 @@
+PROPOSALS
+
+
+
+1) a) Me and You [ Your Account ] (2) {Personal,Team} @melvinredvirus
+   b) Me Alone          reekithak 
+
+
+	if both get selected:
+   		- Either Work Alone
+   		- Or Workn as a team
+   		- On Melvin
+	if a) selected:
+		- We Work as a team 
+		- We split the money
+	if b) selected:
+		- b works alone
+
+
+2) a) Me and You [ MyAccount ] - project (2) {Personal,Team} @reekithak 
+
+   b) You Alone                - project @melvinredvirus
+   
+   	if both get selected:
+   		- Either Work Alone
+   		- Or Workn as a team
+   		- On Akhil for Discussion
+	if a) selected:
+		- We Work as a team 
+		- We split the money
+	if b) selected:
+		- b works alone
