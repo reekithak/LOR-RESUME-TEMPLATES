@@ -1,0 +1,14 @@
+https://www.javatpoint.com/dbms-mcq
+
+Normal forms: 
+
+https://www.sanfoundry.com/database-mcqs-normal-forms/
+
+
+Fucntional Dependencies: 
+
+
+https://www.sanfoundry.com/database-mcqs-functional-dependency-theory/
+
+
+https://www.sanfoundry.com/rdbms-questions-answers-functional-dependency-theory/
